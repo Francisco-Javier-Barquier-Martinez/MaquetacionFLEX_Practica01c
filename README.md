@@ -6,10 +6,10 @@
   Práctica de maquetación CSS con Flex
   
 ## Contenido de la publicación:
-  img
-  3_MaquetacionFLEX_Practica01c.pdf
-  estilos_completar.css
-  maquetacionFLEX_Practica01.html
+  * img
+  * 3_MaquetacionFLEX_Practica01c.pdf
+  * estilos_completar.css
+  * maquetacionFLEX_Practica01.html
   
 ## Desarrollo del proyecto:
   
