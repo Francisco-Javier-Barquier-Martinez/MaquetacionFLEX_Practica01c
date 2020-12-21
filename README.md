@@ -23,7 +23,7 @@
   Francisco Javier Barquier Martinez
   
 ## Licencia:
-  
+  GNU General Public License v3.0
 
 ## Recursos adicionales:
 * [GitHub](https://github.com/)
