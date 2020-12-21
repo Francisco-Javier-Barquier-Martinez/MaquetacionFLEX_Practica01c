@@ -1,36 +1,36 @@
 # MaquetacionFLEX_Practica01c
-#Título del Proyecto: 
+## Título del Proyecto: 
   MaquetacionFLEX_Practica01c
   
-Descripción del proyecto: 
+## Descripción del proyecto: 
   Práctica de maquetación CSS con Flex
   
-Contenido de la publicación:
+## Contenido de la publicación:
   img
   3_MaquetacionFLEX_Practica01c.pdf
   estilos_completar.css
   maquetacionFLEX_Practica01.html
   
-Desarrollo del proyecto:
+## Desarrollo del proyecto:
   
 
-Despliegue(link a la página principal):
+## Despliegue(link a la página principal):
   https://github.com/Francisco-Javier-Barquier-Martinez/MaquetacionFLEX_Practica01c
 
-Construido con:
+## Construido con:
   Visual Studio Code
 
-Versionado:
+## Versionado:
   
 
-Autores:
+## Autores:
   Francisco Javier Barquier Martinez
   
-Licencia:
+## Licencia:
   
 
-Recursos adicionales:
+## Recursos adicionales:
 
-Link a la propia página de GitHub
+## Link a la propia página de GitHub
   https://github.com/
 
