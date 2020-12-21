@@ -1,0 +1,74 @@
+* {
+  margin: 0 auto;
+  font-family: 'Russo One', sans-serif;
+  color: rgb(80, 80, 230);
+  text-align: center;
+  padding-top: 2vh;
+}
+
+h1 {
+  font-size: 3vh;
+}
+
+.container {
+  width: 80%;
+  box-sizing: content-box;
+}
+
+.content_wrapper img {
+  height: 45vh;
+  width: 100%;
+
+}
+
+.content_wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.social {
+size: vh;}
+
+main {
+  width: 30%;
+  padding: 3vh;
+}
+
+header {
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 1vh;
+  width: 60px;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+}
+
+article {
+  width: 30%;
+}
+
+.articles img{
+  width: 100%;
+  height: 100%;
+}
+
+.articles {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin-top: 10vh;
+}
