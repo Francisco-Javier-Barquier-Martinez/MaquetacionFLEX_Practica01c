@@ -29,7 +29,5 @@
   
 
 ## Recursos adicionales:
-
-## Link a la propia página de GitHub
-  [GitHub](https://github.com/)
+#### [GitHub](https://github.com/)
 
