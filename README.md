@@ -10,9 +10,6 @@
   * estilos_completar.css
   * maquetacionFLEX_Practica01.html
   
-## Desarrollo del proyecto:
-  
-
 ## Despliegue(link a la página principal):
   [Enlace del directorio](https://github.com/Francisco-Javier-Barquier-Martinez/MaquetacionFLEX_Practica01c)
 
