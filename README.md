@@ -20,7 +20,7 @@
   Visual Studio Code
 
 ## Versionado:
-  
+  [![version](https://img.shields.io/badge/version-1.0.1-yellow.svg)](https://semver.org)
 
 ## Autores:
   Francisco Javier Barquier Martinez
