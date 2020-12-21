@@ -1,4 +1,3 @@
-# MaquetacionFLEX_Practica01c
 ## Título del Proyecto: 
   MaquetacionFLEX_Practica01c
   
