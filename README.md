@@ -14,7 +14,7 @@
   
 
 ## Despliegue(link a la página principal):
-  https://github.com/Francisco-Javier-Barquier-Martinez/MaquetacionFLEX_Practica01c
+  [Enlace del directorio](https://github.com/Francisco-Javier-Barquier-Martinez/MaquetacionFLEX_Practica01c)
 
 ## Construido con:
   Visual Studio Code
@@ -31,5 +31,5 @@
 ## Recursos adicionales:
 
 ## Link a la propia página de GitHub
-  https://github.com/
+  [GitHub](https://github.com/)
 
