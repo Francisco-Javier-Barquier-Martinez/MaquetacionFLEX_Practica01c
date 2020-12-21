@@ -29,5 +29,6 @@
   
 
 ## Recursos adicionales:
-#### [GitHub](https://github.com/)
+* [GitHub](https://github.com/)
+* [W3Schools](https://www.w3schools.com/)
 
